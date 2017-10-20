@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\bin\Debug\netcoreapp2.0\AnimalTreeGame.deps.json
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\bin\Debug\netcoreapp2.0\AnimalTreeGame.runtimeconfig.json
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\bin\Debug\netcoreapp2.0\AnimalTreeGame.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\bin\Debug\netcoreapp2.0\AnimalTreeGame.dll
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\bin\Debug\netcoreapp2.0\AnimalTreeGame.pdb
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\obj\Debug\netcoreapp2.0\AnimalTreeGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\obj\Debug\netcoreapp2.0\AnimalTreeGame.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\obj\Debug\netcoreapp2.0\AnimalTreeGame.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\obj\Debug\netcoreapp2.0\AnimalTreeGame.dll
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\obj\Debug\netcoreapp2.0\AnimalTreeGame.pdb
+C:\Users\admin\codefellows\401\animalTreeGame\AnimalTreeGame\AnimalTreeGame\obj\Debug\netcoreapp2.0\AnimalTreeGame.csprojResolveAssemblyReference.cache
